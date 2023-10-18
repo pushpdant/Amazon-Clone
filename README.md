@@ -7,5 +7,9 @@ By recreating the main elements of the Amazon homepage, such as the navigation b
 Throughout the project, I also explore different HTML tags and CSS properties that will help you efficiently create your Amazon-inspired homepage.
 
 
+## Live Demo
+Check out the live demo [here](https://pushpdant.github.io/Amazon-Clone/).
+
+
 ![image](https://github.com/pushpdant/Amazon-Clone/assets/55237217/e32bf0df-941f-4d63-ac18-2987a90bd269)
 
